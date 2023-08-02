@@ -23,7 +23,7 @@ Expected Output:
 
 Maximum execution time: 161364 ms
 
-Script 2: Request which took longest time and its details
+Script 2: Request which took longest time
 
 Description
 This script is designed to process a log file and extract request which took the longest time and print the complete to console
